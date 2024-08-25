@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskan (@shafatm)
 - 👀 I’m interested in using data to guide businesses to better serve people  
-- 🌱 I’m currently learning NLP 
+- 🌱 I’m currently learning classification analysis  
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me? Find me on LinkedIn 
 - 😄 Pronouns: she/her 
